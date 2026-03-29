@@ -3,4 +3,7 @@ un'esempio di analisi statistica sul dataset della qualità della vita del Sole2
 
 <img width="1118" height="729" alt="image" src="https://github.com/user-attachments/assets/cc039e24-2cbf-473b-b3ac-d8be09fbb6b1" />
 
+<img width="1118" height="729" alt="image" src="https://github.com/user-attachments/assets/b416df76-fd73-4de5-89c0-ea0aa83150c3" />
+
+
 per aprire il codice e il grafico in versione interattiva all'interno del browser, anche senza possedere una licenza Mathworks, premere qui. [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=NickVicio/Analisi-Database-Ilsole24Ore)
